@@ -1,0 +1,6 @@
+*.pdf
+*.docx
+*.doc
+*.png
+.ipynb_checkpoints/
+.virtual_documents/
