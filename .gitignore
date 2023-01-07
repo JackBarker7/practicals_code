@@ -1,5 +1,9 @@
 *.pdf
 *.docx
 *.doc
+*.odt
+*.tar
+*.drawio
 .ipynb_checkpoints/
 .virtual_documents/
+venv/
